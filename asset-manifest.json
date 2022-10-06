@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Portfolio-akash-dev/static/css/main.7e275c6a.css",
+    "main.js": "/Portfolio-akash-dev/static/js/main.a3b4b03c.js",
+    "index.html": "/Portfolio-akash-dev/index.html",
+    "main.7e275c6a.css.map": "/Portfolio-akash-dev/static/css/main.7e275c6a.css.map",
+    "main.a3b4b03c.js.map": "/Portfolio-akash-dev/static/js/main.a3b4b03c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e275c6a.css",
+    "static/js/main.a3b4b03c.js"
+  ]
+}
